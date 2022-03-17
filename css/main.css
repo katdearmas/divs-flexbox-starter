@@ -102,7 +102,7 @@ html {
 }
 
 body {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Hubballi', cursive;
   padding: 2em;
   font-size: 1.25em;
   height: 100%;
@@ -120,12 +120,16 @@ body {
   color: #fff;
   line-height: 1.5em;
   font-size: 1.6em;
-  background-color: #f16059;
-  height: 300px;
+  background-color: navy;
   display: flex;
   width: 30%;
   justify-content: center;
   align-items: center;
+  border: solid 5px skyblue;
+}
+
+.div-2 {
+    text-align: center;
 }
 
 
